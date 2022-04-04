@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "name": "colotte dress",
+        "price": "1500",
+        "image": "image/1.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Babydoll dress",
+        "price": "2600",
+        "image": "image/2.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Wrap around dress",
+        "price": "2600",
+        "image": "image/3.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Kimono dress",
+        "price": "2500",
+        "image": "image/5.jpg"
+    },
+    {
+        "id": "5",
+        "name": "Polo dress",
+        "price": "1800",
+        "image": "image/6.jpg"
+    },
+    {
+        "id": "6",
+        "name": "Tutu dress",
+        "price": "2000",
+        "image": "image/7.jpg"
+    }
+]
