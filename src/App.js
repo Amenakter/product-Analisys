@@ -4,8 +4,9 @@ import {Routes, Route} from 'react-router-dom'
 import Home from './Components/Home/Home';
 import Review from './Components/Review/Review';
 import Blogs from './Components/Blogs/Blogs';
-import Dashboard from './Components/dashboard/Dashboard';
 import Notfound from './Components/Notfound/Notfound';
+import Dashboard from './Components/dashboard/Dashboard';
+
 
 function App() {
   return (
