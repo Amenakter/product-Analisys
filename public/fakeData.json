@@ -1,38 +1,50 @@
 [
     {
         "id": "1",
-        "name": "colotte dress",
-        "price": "1500",
-        "image": "image/1.jpg"
+        "name": "Harry Potter",
+        "city": "London",
+        "image": "image/1.jpg",
+        "rating": "4.7",
+        "review": " The best! Found me the perfect dress and such lovely service and attention. Not stuffy or overbearing and listen to what you want."
     },
     {
         "id": "2",
-        "name": "Babydoll dress",
-        "price": "2600",
-        "image": "image/2.jpg"
+        "name": "Don Quixote",
+        "city": "Madrid",
+        "image": "image/2.jpg",
+        "rating": "4.5",
+        "review": " This sweater is a bulky, fairly heavy winter sweater that will be awesome for the office or casual wear. The fabric is very silky soft. It’s nice and snuggly!"
     },
     {
         "id": "3",
-        "name": "Wrap around dress",
-        "price": "2600",
-        "image": "image/3.jpg"
+        "name": "Joan of Arc",
+        "city": "brazil",
+        "image": "image/3.jpg",
+        "rating": "5.0",
+        "review": " The girls made the experience really enjoyable even in the current climate."
     },
     {
         "id": "4",
-        "name": "Kimono dress",
-        "price": "2500",
-        "image": "image/5.jpg"
+        "name": " Arc",
+        "city": "Japan",
+        "image": "image/4.jpg",
+        "rating": "4.0",
+        "review": "Excellent dress! Very comfortable and it has a soft lining which keeps you warm. Great shirt, i wear it almost daily. It’s not water-proof so keep that in mind when outside. Also, get 1 size bigger so when it shrinks, it’ll still fit."
     },
     {
         "id": "5",
-        "name": "Polo dress",
-        "price": "1800",
-        "image": "image/6.jpg"
+        "name": "Joan",
+        "city": "England",
+        "image": "image/5.jpg",
+        "rating": "4.25",
+        "review": "I bought these dress for two of my sons for Christmas, they love them. The fit was perfect and they both said how nice this dress look like. The lining inside is a nice soft material. They have held up to several washings thus far.well made and at a great price to."
     },
     {
         "id": "6",
-        "name": "Tutu dress",
-        "price": "2000",
-        "image": "image/7.jpg"
+        "name": "Rosa Park",
+        "city": "Alabama",
+        "image": "image/6.jpg",
+        "rating": "5.0",
+        "review": " This is super comfy! It is warm, fits well also over broad shoulders, and breathes somewhat. It can go in the washer repeatedly without fading or without it losing any of its softness. You can do yard work in it but I wouldn’t recommend going for a jog with this on."
     }
 ]
