@@ -1,6 +1,6 @@
-# Shopping Complex
+# Product analysis website
 
-this is live website link:(https://github.com/facebook/create-react-app).
+this is live website link:https://github.com/facebook/create-react-app.
 
 ## Project Discription 
 * This is about ladies dresses.
